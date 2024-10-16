@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EB8924&width=435&lines=Hello;Welcome+to+My+GitHub+profile!)](https://git.io/typing-svg)
 
 <p style="font-family: 'Roboto Mono', monospace; color: #EB8924FF;">
-  My name is Khaled, I'm a frontend web developer. I started programming back in 2018 slowly learning new stuff, experimenting first with various different languages until I made my decision in 2020 to dedicate my time to focusing on frontend web!
+  My name is Khaled, I'm a frontend web developer. I started programming back in 2018 slowly learning new stuff, experimenting first with various different languages until I made my decision in 2020 to dedicate my time to focusing on frontend developing.
 
   Currently working as an Application Support Engineer but slowly getting back into Web Developing
 </p>
